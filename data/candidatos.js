@@ -32,7 +32,7 @@ No CIIMAR, foi membro da Direção durante sete anos e Presidente da Assembleia 
     {
       "nome": "João Paulo Vilas-Boas",
       "unidade": "FADEUP",
-      "foto": "assets/sem-foto.svg",
+      "foto": "assets/candidatos/sem-foto.svg",
       "bio": "Biografia por adicionar."
     },
     {
@@ -44,7 +44,7 @@ No CIIMAR, foi membro da Direção durante sete anos e Presidente da Assembleia 
     {
       "nome": "Júlio Dolbeth",
       "unidade": "FBAUP",
-      "foto": "assets/sem-foto.svg",
+      "foto": "assets/candidatos/sem-foto.svg",
       "bio": "Biografia por adicionar."
     },
     {
@@ -57,13 +57,13 @@ Tem lecionado em cursos de graduação e pós-graduação vocacionados para a fo
     {
       "nome": "Mário João Monteiro",
       "unidade": "FCUP",
-      "foto": "assets/sem-foto.svg",
+      "foto": "assets/candidatos/sem-foto.svg",
       "bio": "Biografia por adicionar."
     },
     {
       "nome": "Sofia Sousa",
       "unidade": "FEUP",
-      "foto": "assets/sem-foto.svg",
+      "foto": "assets/candidatos/sem-foto.svg",
       "bio": "Biografia por adicionar."
     }
   ],
@@ -71,7 +71,7 @@ Tem lecionado em cursos de graduação e pós-graduação vocacionados para a fo
     {
       "nome": "Aurora Teixeira",
       "unidade": "FEP",
-      "foto": "assets/sem-foto.svg",
+      "foto": "assets/candidatos/sem-foto.svg",
       "bio": "Biografia por adicionar."
     },
     {
@@ -85,43 +85,43 @@ Tem lecionado em cursos de graduação e pós-graduação vocacionados para a fo
     {
       "nome": "Maria João Gregório",
       "unidade": "FCANUP",
-      "foto": "assets/sem-foto.svg",
+      "foto": "assets/candidatos/sem-foto.svg",
       "bio": "Biografia por adicionar."
     },
     {
       "nome": "Paulo Cardoso Costa",
       "unidade": "FFUP",
-      "foto": "assets/sem-foto.svg",
+      "foto": "assets/candidatos/sem-foto.svg",
       "bio": "Biografia por adicionar."
     },
     {
       "nome": "Pedro Sousa Gomes",
       "unidade": "FMDUP",
-      "foto": "assets/sem-foto.svg",
+      "foto": "assets/candidatos/sem-foto.svg",
       "bio": "Biografia por adicionar."
     },
     {
       "nome": "Rita Gaio",
       "unidade": "FCUP",
-      "foto": "assets/sem-foto.svg",
+      "foto": "assets/candidatos/sem-foto.svg",
       "bio": "Biografia por adicionar."
     },
     {
       "nome": "Sara Ferreira",
       "unidade": "FEUP",
-      "foto": "assets/sem-foto.svg",
+      "foto": "assets/candidatos/sem-foto.svg",
       "bio": "Biografia por adicionar."
     },
     {
       "nome": "Teresa Cunha Ferreira",
       "unidade": "FAUP",
-      "foto": "assets/sem-foto.svg",
+      "foto": "assets/candidatos/sem-foto.svg",
       "bio": "Biografia por adicionar."
     },
     {
       "nome": "Tiago Azevedo Ramalho",
       "unidade": "FDUP",
-      "foto": "assets/sem-foto.svg",
+      "foto": "assets/candidatos/sem-foto.svg",
       "bio": "Biografia por adicionar."
     }
   ]
