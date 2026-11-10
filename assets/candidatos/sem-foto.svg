@@ -1,0 +1,7 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="600" height="640" viewBox="0 0 600 640" role="img" aria-label="Fotografia por adicionar">
+<rect width="600" height="640" fill="#EBEDF4"/>
+<path d="M45 47h72v20H65v51H45V47Zm438 0h72v71h-20V67h-52V47ZM45 522h20v51h52v20H45v-71Zm490 51v-51h20v71h-72v-20h52Z" fill="#6B7DB6"/>
+<circle cx="300" cy="245" r="91" fill="#D2D9EA"/>
+<path d="M123 516c23-118 99-170 177-170s154 52 177 170H123Z" fill="#D2D9EA"/>
+<text x="300" y="570" text-anchor="middle" font-family="Arial, sans-serif" font-size="21" fill="#586475">FOTOGRAFIA POR ADICIONAR</text>
+</svg>
