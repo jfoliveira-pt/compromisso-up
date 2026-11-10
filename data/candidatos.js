@@ -5,7 +5,7 @@ window.COMPROMISSO_CANDIDATOS = {
     {
       "nome": "Ana Maria Mendonça",
       "unidade": "FEUP",
-      "foto": "assets/candidatos/ana-mendonca.tif",
+      "foto": "assets/candidatos/sem-foto.svg",
       "bio": "Ana Maria Mendonça é licenciada, doutorada e agregada em Engenharia Eletrotécnica e Computadores pela Faculdade de Engenharia da Universidade do Porto, onde é atualmente Professora Catedrática. Nesta escola, foi responsável pela lecionação de diversas disciplinas, de todos os três níveis de ciclos de estudos. A sua carreira de investigação, centrada nas áreas da Análise de Imagem e Visão por Computador, mas com aplicação preferencial em Bioengenharia, foi iniciada no INEB, onde também desempenhou funções de gestão científica, mas é desde 2015 investigadora sénior do INESC TEC. Desempenhou diversos cargos de gestão académica na FEUP, destacando-se ter sido subdiretora do DEEC e, posteriormente, subdiretora da FEUP. Depois de ter sido diretora do Mestrado em Engenharia Biomédica até 2014, é, desde 2023, a codiretora da FEUP dos três ciclos de estudo da área da Bioengenharia. É atualmente membro do Conselho Científico, do Conselho Pedagógico e presidente do Conselho de Representantes da FEUP."
     },
     {
