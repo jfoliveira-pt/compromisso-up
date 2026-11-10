@@ -12,7 +12,7 @@ Desempenhou diversos cargos de gestão académica na FEUP, destacando-se ter sid
     {
       "nome": "Eduardo Rocha",
       "unidade": "ICBAS",
-      "foto": "assets/eduardo-rocha.png",
+      "foto": "assets/candidatos/eduardo-rocha.png",
       "bio": " Professor Catedrático do ICBAS – Universidade do Porto e Investigador Integrado do CIIMAR, desenvolve atividade académica, científica e de gestão universitária desde 1987, há quase quatro décadas. Licenciado em Ciências do Meio Aquático, Doutor em Ciências Biomédicas e Agregado em Histologia e Embriologia, alcançou o topo da carreira em 2008.
 
 No ICBAS, foi membro do Conselho Pedagógico durante 30 anos (8 como presidente) e do Conselho Científico durante 25, integrou várias vezes a Assembleia de Representantes e, mais tarde, o Conselho de Representantes, e participou na elaboração dos Estatutos. Dirigiu ciclos de estudo, laboratórios e departamento. É Coordenador Local de Mobilidade há mais de duas décadas, tendo integrado grupos de trabalho da U.Porto, como o que elaborou o Regulamento de Mobilidade de Estudantes Out. Integra atualmente o Conselho Científico e o Conselho de Representantes do ICBAS e o Senado da U.Porto, neste em representação daquele Conselho.
@@ -77,7 +77,7 @@ Tem lecionado em cursos de graduação e pós-graduação vocacionados para a fo
     {
       "nome": "Luís Carvalho",
       "unidade": "ESEP",
-      "foto": "assets/luis-carvalho.jpg",
+      "foto": "assets/candidatos/luis-carvalho.jpg",
       "bio": "Luís Carvalho é Professor Coordenador na Escola Superior de Enfermagem da Universidade do Porto (ESEP).
 
 É Doutor em Ciências da Educação, Mestre em Ciências de Enfermagem e Especialista em Enfermagem de Saúde Infantil e Pediátrica. Atualmente, exerce funções como Diretor do Departamento Clínico da ESEP, é Vice-Presidente da Rede Académica das Ciências da Saúde da Lusofonia (RACS) e integra a unidade de investigação RISE-Health. É também investigador no projeto Supervisão Clínica para a Segurança e Qualidade dos Cuidados — SAFECARE. Foi Presidente da Escola Superior de Enfermagem do Porto, tendo conduzido o processo de integração da Escola na Universidade do Porto. Presidiu ainda ao Conselho Técnico-Científico da ESEP, entre 2013 e 2017, e da Escola Superior de Enfermagem D. Ana Guedes, entre 2003 e 2006. Entre 2019 e 2025, foi membro do Conselho Nacional de Saúde. Ao longo da sua carreira académica, tem orientado teses de doutoramento, concluídas e em curso, bem como dissertações de mestrado, nas áreas científicas da Enfermagem e da Educação. Tem também participado como arguente em provas académicas de doutoramento e mestrado. É autor de diversos livros, capítulos de livros e artigos publicados em revistas científicas, apresentando regularmente comunicações em conferências nacionais e internacionais."
