@@ -30,7 +30,7 @@ window.COMPROMISSO_CANDIDATOS = {
       "nome": "José Paulo Andrade",
       "unidade": "FMUP",
       "foto": "assets/candidatos/jose-andrade.jpg",
-      "bio": "José Paulo Andrade é professor catedrático da FMUP. É coordenador da Unidade de Anatomia do Departamento de Biomedicina e Coordenador dos Museus da FMUP (Museu de Anatomia e Museu de História da Medicina Maximiano Lemos). Vice-presidente do Conselho de Representantes. Investigador do RISE-Health da Linha Temática Neurociências."
+      "bio": "José Paulo Andrade é professor catedrático da FMUP.\n É coordenador da Unidade de Anatomia do Departamento de Biomedicina e Coordenador dos Museus da FMUP (Museu de Anatomia e Museu de História da Medicina Maximiano Lemos).\n Vice-presidente do Conselho de Representantes.\n Investigador do RISE-Health da Linha Temática Neurociências."
     },
     {
       "nome": "Júlio Dolbeth",
