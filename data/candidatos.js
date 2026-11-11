@@ -53,8 +53,8 @@ window.COMPROMISSO_CANDIDATOS = {
     {
       "nome": "Sofia Sousa",
       "unidade": "FEUP",
-      "foto": "assets/candidatos/sem-foto.svg",
-      "bio": "Biografia por adicionar."
+      "foto": "assets/candidatos/sofia-sousa.jpg",
+      "bio": "Sofia Sousa é Investigadora Auxiliar no Laboratório de Engenharia de Processos, Ambiente, Biotecnologia e Energia (LEPABE) da Faculdade de Engenharia da Universidade do Porto (FEUP), integrando a linha de investigação em Ciências e Tecnologias do Ambiente. Licenciada em Engenharia Química pela FEUP (2003) e Doutorada em Engenharia do Ambiente (2009), é atualmente membro do Conselho Científico e do Conselho de Representantes da FEUP. Com mais de 20 anos de experiência na área da qualidade do ar, a sua investigação tem-se centrado no impacto da poluição atmosférica na saúde humana, sendo autora de mais de 90 publicações científicas indexadas. Com participação em mais de 20 projetos financiados por entidades nacionais e internacionais (passados e em curso), destacam-se os estudos sobre qualidade do ar interior em ambientes escolares e os impactos das emissões marítimas na saúde pública. Atualmente, é coordenadora da Ação COST Net4CleanAir. Dedica-se também à formação de jovens investigadores, orientando vários estudantes de doutoramento e colaborando no ensino na FEUP há mais de 15 anos. Tem ainda contribuído ativamente para o desenvolvimento de políticas públicas e promovido a literacia científica junto da sociedade, através de seminários, colaborações nos media e outras iniciativas de divulgação científica."
     }
   ],
   "suplentes": [
@@ -73,8 +73,8 @@ window.COMPROMISSO_CANDIDATOS = {
     {
       "nome": "Maria João Gregório",
       "unidade": "FCANUP",
-      "foto": "assets/candidatos/sem-foto.svg",
-      "bio": "Biografia por adicionar."
+      "foto": "assets/candidatos/maria-gregorio.jpg",
+      "bio": "Professora Auxiliar da Faculdade de Ciências da Nutrição e Alimentação da Universidade do Porto (FCNAUP). É atualmente membro do Conselho Científico e do Conselho de Representantes da FCNAUP. É também Membro da Comissão Científica do Mestrado de Educação Alimentar (FCNAUP, FPCEUP, FLUP, FBAUP). É Nutricionista especialista em Nutrição Comunitária e Saúde Pública. Licenciou-se em Ciências da Nutrição (2009) e doutorou-se em Ciências do Consumo Alimentar e Nutrição (2015) pela FCNAUP. É investigadora da Unidade de Investigação em Epidemiologia (EPIUnit) e membro integrado do Laboratório de Investigação Integrativa e Translacional em Saúde da População (ITR), Instituto de Saúde Pública-Universidade do Porto (ISPUP), sendo a sua área de investigação centrada nas políticas públicas na área da alimentação e nutrição. Participou e participa em diferentes projetos financiados quer a nível nacional quer internacional, nomeadamente enquanto coordenadora da área de trabalho relacionada com a redução do marketing alimentar dirigido a crianças da EU Joint Action Best-ReMaP e da área de trabalho relacionada com a regulação e taxação da EU Joint Action PreventNCD. É atualmente (desde 2019), Diretora do Programa Nacional para a Promoção da Alimentação Saudável (PNPAS) da Direção-Geral da Saúde. É representante do Ministério da Saúde em diferentes comissões/grupos de trabalho intersectoriais, nomeadamente na Comissão de Acompanhamento do Regime Escolar e no Grupo de Trabalho Permanente da Estratégia Nacional de Segurança Alimentar e Nutricional. É ponto focal do Ministério da Saúde para as áreas da alimentação saudável, nutrição e obesidade da OMS, representando Portugal no WHO Acceleration Plan to STOP Obesity, uma iniciativa global da OMS que pretende acelerar as iniciativas de prevenção e controlo da obesidade e é coordenadora da WHO European Action Network on Reducing Marketing Pressure do Children. É também epresentante do Ministério da Saúde no Expert Group on General Food Law and Food Sustainability da Comissão Europeia, no âmbito da Estratégia Farm to Fork."
     },
     {
       "nome": "Paulo Cardoso Costa",
