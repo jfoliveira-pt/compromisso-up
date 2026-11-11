@@ -79,8 +79,8 @@ window.COMPROMISSO_CANDIDATOS = {
     {
       "nome": "Paulo Cardoso Costa",
       "unidade": "FFUP",
-      "foto": "assets/candidatos/sem-foto.svg",
-      "bio": "Biografia por adicionar."
+      "foto": "assets/candidatos/paulo-costa.jpg",
+      "bio": "Paulo Jorge Cardoso da Costa é professor associado com agregação da FFUP. É o responsável pelo Laboratório de Tecnologia Farmacêutica do Departamento de Ciências do Medicamento da mesma instituição e diretor do Mestrado em Tecnologia Farmacêutica. É atualmente Presidente do Conselho de Representantes. É Investigador sénior da UCIBIO (Research Unit on Applied Molecular Biosciences) no Research Group Precision Biomedicine e no Research Lab Pharmaceutical Technology."
     },
     {
       "nome": "Pedro Sousa Gomes",
