@@ -109,8 +109,8 @@ window.COMPROMISSO_CANDIDATOS = {
     {
       "nome": "Tiago Azevedo Ramalho",
       "unidade": "FDUP",
-      "foto": "assets/candidatos/sem-foto.svg",
-      "bio": "Biografia por adicionar."
+      "foto": "assets/candidatos/tiago-ramalho.jpg",
+      "bio": "Tiago Azevedo Ramalho é docente da Faculdade de Direito da Universidade do Porto desde 2010, instituição cujos Conselhos Científico e Pedagógico integra, e investigador integrado do Centro de Investigação Interdisciplinar em Justiça. Tem a categoria de Professor Auxiliar, exercendo no âmbito do Direito Civil, do Processo Civil e da Filosofia do Direito."
     }
   ]
 };
