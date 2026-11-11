@@ -91,8 +91,8 @@ window.COMPROMISSO_CANDIDATOS = {
     {
       "nome": "Rita Gaio",
       "unidade": "FCUP",
-      "foto": "assets/candidatos/sem-foto.svg",
-      "bio": "Biografia por adicionar."
+      "foto": "assets/candidatos/rita-gaio.jpg",
+      "bio": "Rita Gaio é Professora Auxiliar no Departamento de Matemática da FCUP e investigadora do Centro de Matemática da Universidade do Porto (CMUP), com interesses científicos em testes de especificação e modelos de regressão semiparamétricos.  Tem experiência de ensino e orientação de teses nos três níveis de ciclos de estudos. Desempenhou diversos cargos de gestão académica, incluindo funções no Conselho Científico da FCUP, na direção do Departamento de Matemática e do CMUP, e na direção de cursos da FCUP. Integrou ainda comissões científicas de quatro mestrados da FCUP e de dois doutoramentos (FMUP e FCUP)."
     },
     {
       "nome": "Sara Ferreira",
