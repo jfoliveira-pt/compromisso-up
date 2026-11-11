@@ -47,7 +47,7 @@ window.COMPROMISSO_CANDIDATOS = {
     {
       "nome": "Mário João Monteiro",
       "unidade": "FCUP",
-      "foto": "assets/candidatos/mario-monteiro.png",
+      "foto": "assets/candidatos/mario-monteiro.jpg",
       "bio": "Professor Associado da Faculdade de Ciências da Universidade do Porto (FCUP), doutorado em Astronomia pela Queen Mary University of London e licenciado em Física / Matemática Aplicada pela Universidade do Porto (1989). Exerceu o cargo de Diretor do Departamento de Física e Astronomia da FCUP em 2019-2022. Membro do Conselho Científico da Faculdade desde 2010, é atualmente Vice-Presidente desse órgão (desde 2023). Integrou o Senado da Universidade do Porto (2013-2019) e a Assembleia de Representantes da FCUP (2006-2010). Foi Diretor do curso de doutoramento em Astronomia (2010-2019) e do mestrado em Astronomia (2000-2002 e 2007-2010). Preside à Direção do Centro de Astrofísica da Universidade do Porto. Investigador Integrado no Instituto de Astrofísica e Ciências do Espaço da Universidade do Porto, desenvolve investigação na área da Astrofísica Estelar. Participa ainda regularmente em atividades de divulgação científica."
     },
     {
