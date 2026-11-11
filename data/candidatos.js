@@ -6,13 +6,13 @@ window.COMPROMISSO_CANDIDATOS = {
       "nome": "Ana Maria Mendonça",
       "unidade": "FEUP",
       "foto": "assets/candidatos/ana-mendonca.png",
-      "bio": "Ana Maria Mendonça é licenciada, doutorada e agregada em Engenharia Eletrotécnica e Computadores pela Faculdade de Engenharia da Universidade do Porto, onde é atualmente Professora Catedrática. Nesta escola, foi responsável pela lecionação de diversas disciplinas, de todos os três níveis de ciclos de estudos. A sua carreira de investigação, centrada nas áreas da Análise de Imagem e Visão por Computador, mas com aplicação preferencial em Bioengenharia, foi iniciada no INEB, onde também desempenhou funções de gestão científica, mas é desde 2015 investigadora sénior do INESC TEC. Desempenhou diversos cargos de gestão académica na FEUP, destacando-se ter sido subdiretora do DEEC e, posteriormente, subdiretora da FEUP. Depois de ter sido diretora do Mestrado em Engenharia Biomédica até 2014, é, desde 2023, a codiretora da FEUP dos três ciclos de estudo da área da Bioengenharia. É atualmente membro do Conselho Científico, do Conselho Pedagógico e presidente do Conselho de Representantes da FEUP."
+      "bio": "Ana Maria Mendonça é licenciada, doutorada e agregada em Engenharia Eletrotécnica e Computadores pela FEUP, onde é atualmente Professora Catedrática. Foi responsável pela lecionação de diversas disciplinas, de todos os três níveis de ciclos de estudos. Foi investigadora no INEB, mas é atualmente investigadora sénior no INESC TEC. Desempenhou diversos cargos de gestão académica na FEUP, destacando-se ter sido subdiretora do DEEC e, posteriormente, subdiretora da FEUP. É, desde 2023, a codiretora da FEUP dos três ciclos de estudo da área da Bioengenharia. É atualmente membro do Conselho Científico, do Conselho Pedagógico e presidente do Conselho de Representantes da FEUP."
     },
     {
       "nome": "Eduardo Rocha",
       "unidade": "ICBAS",
       "foto": "assets/candidatos/eduardo-rocha.png",
-      "bio": "Professor Catedrático do ICBAS – Universidade do Porto e Investigador Integrado do CIIMAR, desenvolve atividade académica, científica e de gestão universitária desde 1987, há quase quatro décadas. Licenciado em Ciências do Meio Aquático, Doutor em Ciências Biomédicas e Agregado em Histologia e Embriologia, alcançou o topo da carreira em 2008. No ICBAS, foi membro do Conselho Pedagógico durante 30 anos (8 como presidente) e do Conselho Científico durante 25, integrou várias vezes a Assembleia de Representantes e, mais tarde, o Conselho de Representantes, e participou na elaboração dos Estatutos. Dirigiu ciclos de estudo, laboratórios e departamento. É Coordenador Local de Mobilidade há mais de duas décadas, tendo integrado grupos de trabalho da U.Porto, como o que elaborou o Regulamento de Mobilidade de Estudantes Out. Integra atualmente o Conselho Científico e o Conselho de Representantes do ICBAS e o Senado da U.Porto, neste em representação daquele Conselho. No CIIMAR, foi membro da Direção durante sete anos e Presidente da Assembleia Geral durante seis, tendo promovido e acompanhado a revisão dos Estatutos da instituição, concluída com a entrada em vigor de novos Estatutos. É autor de mais de 225 artigos científicos e orientou ou coorientou mais de 45 dissertações de Mestrado e 20 teses de Doutoramento. Conhece por dentro o funcionamento de diferentes órgãos da Universidade e participou na elaboração de Estatutos e regulamentos, experiência que lhe dá uma base sólida para contribuir para a reflexão sobre a organização e a governação da Universidade do Porto."
+      "bio": "Professor Catedrático do ICBAS–U.Porto e Investigador Integrado do CIIMAR, com quase quatro décadas de atividade académica e de gestão universitária. No ICBAS, foi membro do Conselho Pedagógico durante 30 anos (8 como presidente) e do Conselho Científico durante 25, integrou a Assembleia e o Conselho de Representantes, participando na elaboração de Estatutos. Dirigiu ciclos de estudo, laboratórios e departamento. É Coordenador Local de Mobilidade há duas décadas e representa o ICBAS no Senado da U.Porto. No CIIMAR, foi membro da Direção e Presidente da Assembleia Geral, tendo promovido a revisão dos Estatutos. Conhece por dentro a governação da U.Porto."
     },
     {
       "nome": "Fernanda Ribeiro",
@@ -35,14 +35,14 @@ window.COMPROMISSO_CANDIDATOS = {
     {
       "nome": "Júlio Dolbeth",
       "unidade": "FBAUP",
-      "foto": "assets/candidatos/sem-foto.svg",
-      "bio": "Biografia por adicionar."
+      "foto": "assets/candidatos/julio-dolbeth.jpg",
+      "bio": "Júlio Dolbeth é Professor Auxiliar na Faculdade de Belas Artes da Universidade do Porto, onde dirige o Mestrado em Ilustração, Edição e Impressão. Integra o Conselho Científico e a respetiva Comissão Coordenadora, o Conselho Pedagógico e a Comissão Científica do Programa Doutoral em Design. Preside à Comissão de Ética da Faculdade e representa-a na Comissão de Ética da U.Porto. Foi Coordenador de Mobilidade Internacional durante doze anos. Doutorado em Arte e Design, investiga no ID+ e no i2ADS. É também ilustrador, designer e curador, com prática autoral próxima da socially engaged art. Cofundou e dirigiu a galeria Dama Aflita (2008-2015)."
     },
     {
       "nome": "Luísa Faria",
       "unidade": "FPCEUP",
       "foto": "assets/candidatos/luisa-faria.jpg",
-      "bio": "Luísa Faria, Professora Catedrática da FPCEUP, foi Diretora da FPCEUP (2018-2022), Diretora do Mestrado Integrado em Psicologia (2015-2018) e Diretora do Mestrado em Temas de Psicologia da FPCEUP (2008-2010). Tem lecionado em cursos de graduação e pós-graduação vocacionados para a formação de psicólogos (licenciatura, mestrado e doutoramento na FPCEUP), de professores (Ramos Educacionais da Faculdade de Ciências e Faculdade de Desporto da UP) e de especialistas em Ciências da Educação (licenciatura em Ciências da Educação da FPCEUP), nomeadamente nos domínios da psicologia diferencial, psicologia da motivação e emoções e psicologia da educação, tendo orientado ao longo dos anos mestrados, doutoramentos e pós-doutoramentos em Psicologia. Desenvolve investigação nos domínios da motivação e sucesso escolar e da inteligência emocional, sendo autora de inúmeras publicações nacionais e internacionais e integrando o Centro de Psicologia da Universidade do Porto (CPUP)."
+      "bio": "Luísa Faria, Professora Catedrática da FPCEUP, foi Diretora da FPCEUP (2018-2022), Diretora do Mestrado Integrado em Psicologia (2015-2018) e Diretora do Mestrado em Temas de Psicologia (2008-2010), integrando atualmente o Conselho Científico e o Conselho do Departamento de Psicologia da FPCEUP. Tem lecionado em cursos de graduação e pós-graduação vocacionados para a formação de psicólogos, de professores e de especialistas em Ciências da Educação, nomeadamente nas áreas de psicologia diferencial, psicologia da motivação e emoções e psicologia da educação, desenvolvendo investigação nos domínios da motivação, sucesso escolar e inteligência emocional no Centro de Psicologia da Universidade do Porto (CPUP)."
     },
     {
       "nome": "Mário João Monteiro",
@@ -54,7 +54,7 @@ window.COMPROMISSO_CANDIDATOS = {
       "nome": "Sofia Sousa",
       "unidade": "FEUP",
       "foto": "assets/candidatos/sofia-sousa.jpg",
-      "bio": "Sofia Sousa é Investigadora Auxiliar no Laboratório de Engenharia de Processos, Ambiente, Biotecnologia e Energia (LEPABE) da Faculdade de Engenharia da Universidade do Porto (FEUP), integrando a linha de investigação em Ciências e Tecnologias do Ambiente. Licenciada em Engenharia Química pela FEUP (2003) e Doutorada em Engenharia do Ambiente (2009), é atualmente membro do Conselho Científico e do Conselho de Representantes da FEUP. Com mais de 20 anos de experiência na área da qualidade do ar, a sua investigação tem-se centrado no impacto da poluição atmosférica na saúde humana, sendo autora de mais de 90 publicações científicas indexadas. Com participação em mais de 20 projetos financiados por entidades nacionais e internacionais (passados e em curso), destacam-se os estudos sobre qualidade do ar interior em ambientes escolares e os impactos das emissões marítimas na saúde pública. Atualmente, é coordenadora da Ação COST Net4CleanAir. Dedica-se também à formação de jovens investigadores, orientando vários estudantes de doutoramento e colaborando no ensino na FEUP há mais de 15 anos. Tem ainda contribuído ativamente para o desenvolvimento de políticas públicas e promovido a literacia científica junto da sociedade, através de seminários, colaborações nos media e outras iniciativas de divulgação científica."
+      "bio": "Investigadora Auxiliar no Laboratório de Engenharia de Processos, Ambiente, Biotecnologia e Energia (LEPABE) da Faculdade de Engenharia da Universidade do Porto (FEUP). Licenciada em Engenharia Química e doutorada em Engenharia do Ambiente pela FEUP. Com participação/coordenação em mais de 20 projetos financiados por entidades nacionais e internacionais, destacam-se os estudos sobre qualidade do ar interior e os impactos das emissões marítimas na saúde pública. Coordena uma rede internacional e multidisciplinar na área da qualidade do ar interior. É atualmente membro do Conselho do Departamento de Engenharia Química e Biológica, do Conselho Científico e do Conselho de Representantes da FEUP."
     }
   ],
   "suplentes": [
@@ -97,8 +97,8 @@ window.COMPROMISSO_CANDIDATOS = {
     {
       "nome": "Sara Ferreira",
       "unidade": "FEUP",
-      "foto": "assets/candidatos/sem-foto.svg",
-      "bio": "Biografia por adicionar."
+      "foto": "assets/candidatos/sara-ferreira.jpg",
+      "bio": "Sara Ferreira é docente e investigadora da Faculdade de Engenharia da Universidade do Porto (FEUP), onde é subdiretora do Departamento de Engenharia Civil e Georrecursos. Professora associada com agregação, integra o CITTA – Centro de Investigação do Território, Transportes e Ambiente, onde trabalha em segurança rodoviária e engenharia de transportes. Colabora com parceiros nacionais e internacionais. Fez parte da direção do Instituto para a Construção Sustentável e foi membro do conselho de representantes da FEUP. Leciona em vários cursos, tais como Licenciatura em Engenharia Civil e Mestrado em Engenharia Civil e outros cursos de 2º e 3.º ciclos."
     },
     {
       "nome": "Teresa Cunha Ferreira",
