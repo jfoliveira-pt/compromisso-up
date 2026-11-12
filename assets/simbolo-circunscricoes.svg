@@ -1,15 +1,15 @@
-<?xml version="1.0" encoding="UTF-8"?>
+<?xml version='1.0' encoding='UTF-8'?>
 <svg xmlns="http://www.w3.org/2000/svg" width="720" height="830" viewBox="0 0 720 830" role="img" aria-labelledby="titulo descricao">
   <title id="titulo">Lista B — as quatro circunscrições</title>
   <desc id="descricao">Quatro cantos do símbolo Compromisso UP com rotação de menos quatro graus: Arquitetura e Artes em azul-noite, Humanidades e Ciências Sociais em coral, Ciências e Tecnologia em azul médio e Saúde em ouro suave.</desc>
   <!-- A composição é vertical e compacta para o espaço lateral do cabeçalho do site.
        As cores, os quatro cantos e a rotação seguem o símbolo original. -->
   <g fill="#1E2B4A" font-family="Inter, Arial, Helvetica, sans-serif" font-weight="700" font-size="27" letter-spacing="-0.25">
-    <text id="texto-arquitetura" x="53" y="50">
+    <text id="texto-arquitetura" x="53" y="50" transform="rotate(-4 53 50)">
       <tspan x="53">Arquitetura</tspan>
       <tspan x="53" dy="35">e Artes</tspan>
     </text>
-    <text id="texto-humanidades" x="436" y="50">
+    <text id="texto-humanidades" x="436" y="50" transform="rotate(-4 436 50)">
       <tspan x="436">Humanidades</tspan>
       <tspan x="436" dy="35">e Ciências</tspan>
       <tspan x="436" dy="35">Sociais</tspan>
@@ -28,10 +28,10 @@
   </g>
 
   <g fill="#1E2B4A" font-family="Inter, Arial, Helvetica, sans-serif" font-weight="700" font-size="27" letter-spacing="-0.25">
-    <text id="texto-ciencias" x="53" y="777">
+    <text id="texto-ciencias" x="53" y="777" transform="rotate(-4 53 777)">
       <tspan x="53">Ciências e</tspan>
       <tspan x="53" dy="35">Tecnologia</tspan>
     </text>
-    <text id="texto-saude" x="509" y="777">Saúde</text>
+    <text id="texto-saude" x="509" y="777" transform="rotate(-4 509 777)">Saúde</text>
   </g>
 </svg>
