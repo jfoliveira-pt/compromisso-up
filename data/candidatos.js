@@ -61,8 +61,8 @@ window.COMPROMISSO_CANDIDATOS = {
     {
       "nome": "Aurora Teixeira",
       "unidade": "FEP",
-      "foto": "assets/candidatos/sem-foto.svg",
-      "bio": "Biografia por adicionar."
+      "foto": "assets/candidatos/aurora-teixeira.jpg",
+      "bio": "Aurora Teixeira é Professora Catedrática da Faculdade de Economia e Gestão da Universidade do Porto. Doutorada em Políticas de Ciência e Tecnologia pela Universidade de Sussex (Reino Unido), é atualmente Diretora do Programa de Doutoramento em Economia da FEP e investigadora associada do CEF.UP, INESC TEC e OBEGEF. Integra o corpo editorial do Journal of Academic Ethics e o Steering Committee do projeto Industrial Policy Strategic Assessment (IPSA). A sua investigação centra-se nos domínios da inovação, ciência e tecnologia, política industrial e competitividade, tendo sido distinguida com diversos prémios científicos, incluindo o Prémio de Excelência na Investigação Científica da Universidade do Porto (2026)."
     },
     {
       "nome": "Luís Carvalho",
@@ -103,8 +103,8 @@ window.COMPROMISSO_CANDIDATOS = {
     {
       "nome": "Teresa Cunha Ferreira",
       "unidade": "FAUP",
-      "foto": "assets/candidatos/sem-foto.svg",
-      "bio": "Biografia por adicionar."
+      "foto": "assets/candidatos/teresa-ferreira.jpg",
+      "bio": "Investigadora Principal da Faculdade de Arquitectura da Universidade do Porto (FAUP). Membro do Conselho de Representantes da FAUP. Membro da Comissão Científica do Programa de Doutoramento em Arquitetura da FAUP. Membro do Conselho Científico do Centro de Estudos Nuno Portas (CENP). Titular da Cátedra UNESCO ‘Património, Cidades e Paisagens. Gestão Sustentável, Conservação, Planeamento e Projeto’. Membro do Conselho Municipal de Cultura da Câmara Municipal do Porto. Membro dos Órgãos Sociais de Associações como o ICOMOS-Portugal (2011-2017), Associação Portuguesa de Reabilitação Urbana e Proteção do Património e Sociedade Portuguesa de Estudos de História da Construção."
     },
     {
       "nome": "Tiago Azevedo Ramalho",
