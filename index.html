@@ -30,22 +30,18 @@
   font-size: 12px; font-weight: 800; letter-spacing: .14em;
   color: #1E2B4A; text-transform: uppercase; margin: 0 0 16px;
 }
-/* Recorte visual do cabeçalho do Google Forms. O conteúdo interno do iframe
-   continua a pertencer à Google e pode mudar. Ajustar --forms-header-cut se necessário. */
+/* O Google Forms e mostrado na totalidade: nao recortar o iframe,
+   para preservar os campos iniciais em todos os dispositivos. */
 .contributions-frame-viewport {
-  --forms-header-cut: 360px;
-  height: 840px;
-  overflow: hidden;
-  position: relative;
+  width: 100%;
   background: #fff;
 }
 .contributions-frame {
   display: block;
   width: 100%;
-  height: calc(840px + var(--forms-header-cut));
+  height: 1000px;
   border: 0;
   background: #fff;
-  transform: translateY(calc(-1 * var(--forms-header-cut)));
 }
 .contributions-external { text-align: center; font-size: 13px; color: #586475; margin: 15px 0 0; }
 .contributions-external a { font-weight: 750; text-decoration: underline; text-underline-offset: 3px; }
@@ -55,8 +51,7 @@
   .contributions-lead { font-size: 16px; }
   .contributions-panel { padding: 14px 7px 16px; }
   .contributions-panel-label { margin: 8px 10px 12px; }
-  .contributions-frame-viewport { --forms-header-cut: 430px; height: 990px; }
-  .contributions-frame { height: calc(990px + var(--forms-header-cut)); }
+  .contributions-frame { height: 1120px; }
   .contributions-external { margin: 15px 12px 0; }
 }
 </style>
@@ -125,13 +120,13 @@
         <p class="contributions-privacy">Os contributos são enviados através de um formulário Google e não serão publicados neste site. Serão utilizados pela Lista B no âmbito deste processo. Não inclua informações pessoais sensíveis.</p>
       </div>
       <div class="contributions-panel">
-        <p class="contributions-panel-label">Formulário de contributos</p>
+        <p class="contributions-panel-label">Envie-nos o seu contributo</p>
         <div class="contributions-frame-viewport">
         <iframe
           class="contributions-frame"
           title="Envio de contributos para a Lista B — Compromisso UP"
           src="https://docs.google.com/forms/d/e/1FAIpQLSesSuIp8Qp0aeb6FN0ruiRWFCaYbZLyJKLuRouD81HuV56PVw/viewform?embedded=true"
-          width="640" height="780"
+          width="640" height="1000"
           loading="lazy"
           referrerpolicy="strict-origin-when-cross-origin">
           O seu navegador não suporta formulários incorporados.
