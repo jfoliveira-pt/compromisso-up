@@ -1,11 +1,24 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<svg xmlns="http://www.w3.org/2000/svg" width="1060" height="660" viewBox="0 0 1060 660" role="img" aria-labelledby="titulo descricao">
-  <title id="titulo">Compromisso UP — quatro circunscrições</title>
-  <desc id="descricao">Símbolo oficial da Lista B, rodado quatro graus no sentido anti-horário: Arquitetura e Artes em azul-noite, Humanidades e Ciências Sociais em coral, Ciências e Tecnologia em azul médio, e Saúde em ouro suave.</desc>
+<svg xmlns="http://www.w3.org/2000/svg" width="720" height="830" viewBox="0 0 720 830" role="img" aria-labelledby="titulo descricao">
+  <title id="titulo">Lista B — as quatro circunscrições</title>
+  <desc id="descricao">Quatro cantos do símbolo Compromisso UP com rotação de menos quatro graus: Arquitetura e Artes em azul-noite, Humanidades e Ciências Sociais em coral, Ciências e Tecnologia em azul médio e Saúde em ouro suave.</desc>
+  <!-- A composição é vertical e compacta para o espaço lateral do cabeçalho do site.
+       As cores, os quatro cantos e a rotação seguem o símbolo original. -->
+  <g fill="#1E2B4A" font-family="Inter, Arial, Helvetica, sans-serif" font-weight="700" font-size="27" letter-spacing="-0.25">
+    <text id="texto-arquitetura" x="53" y="50">
+      <tspan x="53">Arquitetura</tspan>
+      <tspan x="53" dy="35">e Artes</tspan>
+    </text>
+    <text id="texto-humanidades" x="436" y="50">
+      <tspan x="436">Humanidades</tspan>
+      <tspan x="436" dy="35">e Ciências</tspan>
+      <tspan x="436" dy="35">Sociais</tspan>
+    </text>
+  </g>
 
-  <!-- Fundo transparente. Toda a geometria e todos os textos são vetoriais e editáveis. -->
-  <!-- As cores e o ângulo seguem exatamente o manual de identidade Compromisso UP. -->
-  <g id="simbolo-oficial" transform="translate(335 125) scale(3.4)">
+  <!-- Imagem original: quatro cantos independentes (12 unidades de espessura),
+       girados -4 graus em torno do centro 60,60; apenas aumentada de escala. -->
+  <g id="simbolo-oficial-ampliado" transform="translate(48 108) scale(5.2)">
     <g transform="rotate(-4 60 60)" fill="none" stroke-width="12" stroke-linecap="square" stroke-linejoin="miter">
       <path id="arquitetura-artes" d="M 43 14 H 14 V 43" stroke="#1E2B4A"/>
       <path id="humanidades-sociais" d="M 77 14 H 106 V 43" stroke="#E66D5B"/>
@@ -14,21 +27,11 @@
     </g>
   </g>
 
-  <!-- As legendas usam texto SVG verdadeiro, não são convertidas em contornos. -->
-  <g id="designacoes" fill="#1E2B4A" font-family="Inter, Arial, Helvetica, sans-serif" font-size="34" font-weight="700" letter-spacing="-0.6">
-    <text id="designacao-arquitetura" x="28" y="201">
-      <tspan x="28" dy="0">Arquitetura</tspan>
-      <tspan x="28" dy="40">e Artes</tspan>
+  <g fill="#1E2B4A" font-family="Inter, Arial, Helvetica, sans-serif" font-weight="700" font-size="27" letter-spacing="-0.25">
+    <text id="texto-ciencias" x="53" y="777">
+      <tspan x="53">Ciências e</tspan>
+      <tspan x="53" dy="35">Tecnologia</tspan>
     </text>
-    <text id="designacao-humanidades" x="784" y="188">
-      <tspan x="784" dy="0">Humanidades</tspan>
-      <tspan x="784" dy="40">e Ciências</tspan>
-      <tspan x="784" dy="40">Sociais</tspan>
-    </text>
-    <text id="designacao-ciencias" x="28" y="472">
-      <tspan x="28" dy="0">Ciências e</tspan>
-      <tspan x="28" dy="40">Tecnologia</tspan>
-    </text>
-    <text id="designacao-saude" x="784" y="505">Saúde</text>
+    <text id="texto-saude" x="509" y="777">Saúde</text>
   </g>
 </svg>
